@@ -6,6 +6,6 @@ services:
       - 4000:4000
     volumes:
       - ${PWD}:/srv/jekyll
-    command: jekyll serve --force_polling
+    command: jekyll serve --force_polling -d ./docs
     init: true
     tty: true

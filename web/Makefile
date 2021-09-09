@@ -22,10 +22,6 @@ commit: ## git commit
 	git commit -m 'deploy'
 	git push
 
-deploy: ## make static + git push
-	make commit
-	git subtree push --prefix web/web/public origin gh-pages
-
 %: ## hexo new
 	./node_modules/hexo-cli/bin/hexo new $@
 	vim ./source/_posts/$@.md

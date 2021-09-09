@@ -23,7 +23,9 @@ commit: ## git commit
 	git push
 
 deploy: ## push gh-pages
+	make commit
 	cd .. && ./deploy.sh web/public/
+
 %: ## hexo new
 	./node_modules/hexo-cli/bin/hexo new $@
 	vim ./source/_posts/$@.md

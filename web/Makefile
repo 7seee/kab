@@ -15,12 +15,16 @@ static: ## hexo generate
 	mkdir -p ./public/img/
 	cp -f ./img/* ./public/img/
 
-deploy: ## make static + git push
+commit: ## git commit
 	git pull
 	make static
 	git add .
 	git commit -m 'deploy'
 	git push
+
+deploy: ## make static + git push
+	make commit
+	git subtree push --prefix web/web/public origin gh-pages
 
 %: ## hexo new
 	./node_modules/hexo-cli/bin/hexo new $@

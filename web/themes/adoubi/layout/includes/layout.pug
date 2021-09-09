@@ -1,5 +1,10 @@
 
 - var pageTitle = page.title || config.subtitle || ''
+- var categoriesList = list_categories({ show_count: false })
+- var tagsList = list_tags({ show_count: false, style: false, separator: ' ' })
+- var archivesList = list_archives({ show_count: false })
+
+
 
 doctype html
 html(lang=config.language)
@@ -15,17 +20,21 @@ html(lang=config.language)
     link(rel="icon", href=config.root + 'images/favicon.ico')
   body
     div.header
-      a.github-link(href='/')
-        img.github-image(src=config.root + 'images/Aquicon-Github-small.png')
       a.email-link(href='https://twitter.com/OG0eu7segtTPbw')
         img.email-image(src=config.root + 'images/twitter.png')
       a.subscribe-link(href="/web/atom.xml")
         img.subscribe-image(src=config.root + 'images/subscribe-small.png')
     div.content
+      h3.post-title-wrapper
+        a(href="/").post-title=config.title
+      <center>
+      div!= tagsList
+      </center>
       block content
     div.footer
       <br>
       <br>
+      <small><a href="https://twitter.com/OG0eu7segtTPbw" target="_blank">Twitter</a></small>
       <small><a href="https://www.geartics.com/OG0eu7segtTPbw" target="_blank">Geartics</a></small>
       <br>
       <br>

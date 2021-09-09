@@ -1,8 +1,10 @@
 extends includes/layout
 
 block content
+    h2.post-title-wrapper
+      p.post-title="「"+page.tag+"」の記事一覧"
     div.archive
-      each post in site.posts.sort('date', -1).toArray()
+      each post in page.posts.sort('date', -1).toArray()
         .archive-item
           div
             if post.link
@@ -11,3 +13,5 @@ block content
             else
                 a.archive-item__link(href=url_for(post.path))
                   span.archive-item__link__title=post.title || 'No Title'
+
+

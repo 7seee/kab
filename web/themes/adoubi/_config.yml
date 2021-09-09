@@ -1,9 +1,9 @@
 
 root: /web
 
-Home: /web
-Archives: /archives
-About: /about
+menu:
+  Home: /web
+  Tags: /web/tags
 
 language: ja
 

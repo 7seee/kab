@@ -232,6 +232,7 @@ strong {
 .post-title-wrapper {
   text-align: center;
   margin-bottom: 2%;
+  text-decoration: none;
 }
 .post-title {
   color: #555;

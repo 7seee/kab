@@ -11,7 +11,7 @@ clean: ## hexo clean
 	./node_modules/hexo-cli/bin/hexo clean
 
 static: ## hexo generate
-	./node_modules/hexo-cli/bin/hexo generate
+	./node_modules/hexo-cli/bin/hexo generate -f
 	mkdir -p ./public/img/
 	cp -f ./img/* ./public/img/
 

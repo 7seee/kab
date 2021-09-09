@@ -1,11 +1,11 @@
 
-root: /
+root: /web
 
-Home: /
+Home: /web
 Archives: /archives
 About: /about
 
-language: en
+language: ja
 
 author:
 description:
@@ -18,4 +18,4 @@ favicon: /favicon.ico
 
 # stylesheets loaded in the <head>
 stylesheets:
-- /css/hexo-theme-adoubi.css
+- /web/css/hexo-theme-adoubi.css

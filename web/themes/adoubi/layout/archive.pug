@@ -10,7 +10,7 @@ block content
         .archive-item
           div
             if post.link
-                a.archive-item__link(href=url_for(post.link) target="_blank")
+                a.archive-item__link(href=url_for(post.link))
                   span.archive-item__link__time(datetime=date_xml(post.date))= date(post.date)
                   span.archive-item__link__title=post.title || 'No Title'
             else

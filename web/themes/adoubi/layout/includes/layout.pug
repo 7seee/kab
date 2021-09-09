@@ -5,9 +5,9 @@ doctype html
 html(lang=config.language)
   head
     meta(charset='UTF-8')
-    title= pageTitle
-    link(rel='stylesheet', href='/css/normalize.css')
-    <link rel="stylesheet" href="/css/heti.min.css">
+    title=page.title
+    link(rel='stylesheet', href='/web/css/normalize.css')
+    <link rel="stylesheet" href="/web/css/heti.min.css">
 
     if theme.stylesheets !== undefined && theme.stylesheets.length > 0
       each url in theme.stylesheets
@@ -15,16 +15,20 @@ html(lang=config.language)
     link(rel="icon", href=config.root + 'images/favicon.ico')
   body
     div.header
-      a.github-link(href=theme.github)
+      a.github-link(href='/')
         img.github-image(src=config.root + 'images/Aquicon-Github-small.png')
-      a.email-link(href='mailto:' + theme.email)
-        img.email-image(src=config.root + 'images/email-small.png')
-      a.subscribe-link(href="/atom.xml")
+      a.email-link(href='https://twitter.com/OG0eu7segtTPbw')
+        img.email-image(src=config.root + 'images/twitter.png')
+      a.subscribe-link(href="/web/atom.xml")
         img.subscribe-image(src=config.root + 'images/subscribe-small.png')
     div.content
       block content
     div.footer
+      <br>
+      <br>
+      <small><a href="https://www.geartics.com/OG0eu7segtTPbw" target="_blank">Geartics</a></small>
+      <br>
+      <br>
         div.footer-copyright
-          | Theme By 
-          a(href="https://github.com/shinux/hexo-theme-adoubi")="Adoubi"
-          |  , Powered By Hexo.
+          | &copy; 
+          a(href="/")="7se"

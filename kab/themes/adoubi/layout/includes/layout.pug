@@ -11,19 +11,19 @@ html(lang=config.language)
   head
     meta(charset='UTF-8')
     title=page.title
-    link(rel='stylesheet', href='/keb/css/normalize.css')
-    <link rel="stylesheet" href="/keb/css/heti.min.css">
+    link(rel='stylesheet', href='css/normalize.css')
+    <link rel="stylesheet" href="css/heti.min.css">
 
     if theme.stylesheets !== undefined && theme.stylesheets.length > 0
       each url in theme.stylesheets
         link(rel='stylesheet', href=url)
-    link(rel="icon", href=config.root + '/kab/images/favicon.ico')
+    link(rel="icon", href=config.root + 'images/favicon.ico')
   body
     div.header
       a.email-link(href='https://twitter.com/OG0eu7segtTPbw')
-        img.email-image(src=config.root + '/kab/images/twitter.png')
+        img.email-image(src=config.root + 'images/twitter.png')
       a.subscribe-link(href="/keb/atom.xml")
-        img.subscribe-image(src=config.root + '/kab/images/subscribe-small.png')
+        img.subscribe-image(src=config.root + 'images/subscribe-small.png')
     div.content
       h3.post-title-wrapper
         a(href="/").post-title=config.title

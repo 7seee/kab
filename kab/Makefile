@@ -23,5 +23,5 @@ commit: ## git commit
 	git push
 
 deploy: ## push gh-pages
-	cd .. && ./deploy.sh web/public/
+	cd .. && ./deploy.sh keb/public/
 

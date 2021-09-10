@@ -18,4 +18,6 @@ favicon: /favicon.ico
 
 # stylesheets loaded in the <head>
 stylesheets:
-- /kab/css/hexo-theme-adoubi.css
+  - /kab/css/normalize.css
+  - /kab/css/heti.min.css
+  - /kab/css/hexo-theme-adoubi.css

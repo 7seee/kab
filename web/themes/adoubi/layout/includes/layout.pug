@@ -11,8 +11,8 @@ html(lang=config.language)
   head
     meta(charset='UTF-8')
     title=page.title
-    link(rel='stylesheet', href='/web/css/normalize.css')
-    <link rel="stylesheet" href="/web/css/heti.min.css">
+    link(rel='stylesheet', href='/keb/css/normalize.css')
+    <link rel="stylesheet" href="/keb/css/heti.min.css">
 
     if theme.stylesheets !== undefined && theme.stylesheets.length > 0
       each url in theme.stylesheets
@@ -22,7 +22,7 @@ html(lang=config.language)
     div.header
       a.email-link(href='https://twitter.com/OG0eu7segtTPbw')
         img.email-image(src=config.root + 'images/twitter.png')
-      a.subscribe-link(href="/web/atom.xml")
+      a.subscribe-link(href="/keb/atom.xml")
         img.subscribe-image(src=config.root + 'images/subscribe-small.png')
     div.content
       h3.post-title-wrapper

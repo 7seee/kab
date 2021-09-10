@@ -1,9 +1,9 @@
 
-root: /web
+root: /kab
 
 menu:
-  Home: /web
-  Tags: /web/tags
+  Home: /kab
+  Tags: /kab/tags
 
 language: ja
 
@@ -18,4 +18,4 @@ favicon: /favicon.ico
 
 # stylesheets loaded in the <head>
 stylesheets:
-- /web/css/hexo-theme-adoubi.css
+- /kab/css/hexo-theme-adoubi.css

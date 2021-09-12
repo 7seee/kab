@@ -13,7 +13,7 @@ clean: ## hexo clean
 static: ## hexo generate
 	./node_modules/hexo-cli/bin/hexo generate -f
 	mkdir -p ./public/img/
-	cp -f ./img/* ./public/img/
+	cp -fr ./img/* ./public/img/
 
 commit: ## git commit
 	git pull

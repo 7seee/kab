@@ -1,42 +1,28 @@
 ---
-title: Hello World
-date: 2021-09-09 00:18:15
+title: ブログつくりました
+date: 2021-09-12 23:18:15
 tags:
- - てすと
+ - 日記
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+投資関係の話はTwitterに流さず、こちらのブログに記録をつけていく事にしました
 
-## Quick Start
+## 簡単に自己紹介
 
-### Create a new post
+2018年ぐらいからいろいろ（投資信託・FX・ビットコイン）適当に買っていましたが、お試しの色が強く、大した金額の運用はしていませんでした
 
-``` bash
-$ hexo new "My New Post"
-```
+2021年頃から国内株式をメインに、本格的に取引をはじめました
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+直近3年の国内株式の損益はこんな感じです
 
-### Run server
+| 年            | 損益     |
+|---------------|----------|
+| 2018          | +16900   |
+| 2019          | +31947   |
+| 2020          | +1289051 |
+| 2021(9月時点) | -192234  |
 
-``` bash
-$ hexo server
-```
 
-More info: [Server](https://hexo.io/docs/server.html)
+## 現在の保有株
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+![image](/kab/img/hello-world001.jpg)

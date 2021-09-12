@@ -6,7 +6,7 @@
   <link href="https://7seee.github.io/kab/atom.xml" rel="self"/>
   
   <link href="https://7seee.github.io/kab/"/>
-  <updated>2021-09-10T11:50:16.214Z</updated>
+  <updated>2021-09-12T14:58:44.673Z</updated>
   <id>https://7seee.github.io/kab/</id>
   
   <author>
@@ -17,24 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://7seee.github.io/kab/2021/09/09/hello-world/"/>
-    <id>https://7seee.github.io/kab/2021/09/09/hello-world/</id>
-    <published>2021-09-08T15:18:15.000Z</published>
-    <updated>2021-09-10T11:50:16.214Z</updated>
+    <title>ブログつくりました</title>
+    <link href="https://7seee.github.io/kab/2021/09/12/hello-world/"/>
+    <id>https://7seee.github.io/kab/2021/09/12/hello-world/</id>
+    <published>2021-09-12T14:18:15.000Z</published>
+    <updated>2021-09-12T14:58:44.673Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2><span id="quick-start">Quick Start</span></h2><h3><span id="create-a-new-post">Create a new post</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3><span id="run-server">Run server</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3><span id="generate-static-files">Generate static files</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3><span id="deploy-to-remote-sites">Deploy to remote sites</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>投資関係の話はTwitterに流さず、こちらのブログに記録をつけていく事にしました</p><h2><span id="簡単に自己紹介">簡単に自己紹介</span></h2><p>2018年ぐらいからいろいろ（投資信託・FX・ビットコイン）適当に買っていましたが、お試しの色が強く、大した金額の運用はしていませんでした</p><p>2021年頃から国内株式をメインに、本格的に取引をはじめました</p><p>直近3年の国内株式の損益はこんな感じです</p><table><thead><tr><th>年</th><th>損益</th></tr></thead><tbody><tr><td>2018</td><td>+16900</td></tr><tr><td>2019</td><td>+31947</td></tr><tr><td>2020</td><td>+1289051</td></tr><tr><td>2021(9月時点)</td><td>-192234</td></tr></tbody></table><h2><span id="現在の保有株">現在の保有株</span></h2><p><img src="/kab/img/hello-world001.jpg" alt="image"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;投資関係の話はTwitterに流さず、こちらのブログに記録をつけていく事にしました&lt;/p&gt;
+&lt;h2&gt;&lt;span id=&quot;簡単に自己紹介&quot;&gt;簡単に自己紹介&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;2018年ぐらいからいろいろ（投資信託・FX・ビットコイン）適当に買っていましたが、お試しの</summary>
       
     
     
     
     
-    <category term="てすと" scheme="https://7seee.github.io/kab/tags/%E3%81%A6%E3%81%99%E3%81%A8/"/>
+    <category term="日記" scheme="https://7seee.github.io/kab/tags/%E6%97%A5%E8%A8%98/"/>
     
   </entry>
   

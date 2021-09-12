@@ -28,6 +28,10 @@ html(lang=config.language)
       h3.post-title-wrapper
         a(href="/kab").post-title=config.title
       <center>
+      div
+        a(href="/kab/tags/日記")="日記"
+        | &nbsp; 
+        a(href="/kab/tags/株ログ")="株ログ"
       div!= tagsList
       </center>
       block content

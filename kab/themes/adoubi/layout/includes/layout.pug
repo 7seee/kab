@@ -17,6 +17,16 @@ html(lang=config.language)
       each url in theme.stylesheets
         link(rel='stylesheet', type='text/css' href=url)
     link(rel="icon", href='/kab/images/favicon.ico')
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YMPREZVMJY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-YMPREZVMJY');
+    </script>
   body
     div.header
       a.github-link(href='https://github.com/7seee')

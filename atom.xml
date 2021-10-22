@@ -6,7 +6,7 @@
   <link href="https://7seee.github.io/kab/atom.xml" rel="self"/>
   
   <link href="https://7seee.github.io/kab/"/>
-  <updated>2021-10-21T10:20:15.367Z</updated>
+  <updated>2021-10-22T04:04:35.126Z</updated>
   <id>https://7seee.github.io/kab/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20211005 日記</title>
+    <link href="https://7seee.github.io/kab/2021/10/22/20211022-diary/"/>
+    <id>https://7seee.github.io/kab/2021/10/22/20211022-diary/</id>
+    <published>2021-10-22T03:56:15.000Z</published>
+    <updated>2021-10-22T04:04:35.126Z</updated>
+    
+    <content type="html"><![CDATA[<p>トレイリングで刈られて、「持ってたら上がってたのに」みたいなのが散見される</p><p>トレイリング初期条件の所に改善が必要かもしれない（約定から○日は設定しないとか、リスクをとってロスカットポイントをもっと下げるとか）</p><h2><span id="6890-フェローテック">6890 フェローテック</span></h2><p><img src="/kab/img/20211022d001.png" alt="i"></p><h2><span id="7082-ジモティ">7082 ジモティ</span></h2><p><img src="/kab/img/20211022d002.png" alt="i"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;トレイリングで刈られて、「持ってたら上がってたのに」みたいなのが散見される&lt;/p&gt;
+&lt;p&gt;トレイリング初期条件の所に改善が必要かもしれない（約定から○日は設定しないとか、リスクをとってロスカットポイントをもっと下げるとか）&lt;/p&gt;
+&lt;h2&gt;&lt;span id=&quot;6890-フェ</summary>
+      
+    
+    
+    
+    
+    <category term="日記" scheme="https://7seee.github.io/kab/tags/%E6%97%A5%E8%A8%98/"/>
+    
+  </entry>
   
   <entry>
     <title>20211021 結果 ±0</title>
@@ -667,42 +691,6 @@
     <category term="8591" scheme="https://7seee.github.io/kab/tags/8591/"/>
     
     <category term="9307" scheme="https://7seee.github.io/kab/tags/9307/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20210927 結果 -58,303</title>
-    <link href="https://7seee.github.io/kab/2021/09/27/20210927/"/>
-    <id>https://7seee.github.io/kab/2021/09/27/20210927/</id>
-    <published>2021-09-27T06:25:21.000Z</published>
-    <updated>2021-09-28T06:08:42.353Z</updated>
-    
-    <content type="html"><![CDATA[<p>利益金額合計 0 円<br>損失金額合計 -58,303 円<br>実現損益合計 -58,303 円</p><p><img src="/kab/img/20210927000.png" alt="i"></p><p>今日上がるかなと思ってたけどまだ上値重い感じだった</p><h2><span id="1458-楽天225ダブルブル">1458 楽天２２５ダブルブル</span></h2><p>inできず。トレイリング約定 -20000円ぐらい</p><h2><span id="7082-ジモティ">7082 ジモティ</span></h2><p>inできず。トレイリング約定 -32000円ぐらい</p><h2><span id="9021-西日本旅客鉄道">9021 西日本旅客鉄道</span></h2><p>in。</p><p><img src="/kab/img/20210927001.png" alt="i"></p><h2><span id="7803-ブシロード">7803 ブシロード</span></h2><p>取引なし</p><h2><span id="4169-エネチェンジ">4169 エネチェンジ</span></h2><p>取引なし</p><h2><span id="9143-sghd">9143 SGHD</span></h2><p>取引なし</p><h2><span id="next-up">next up</span></h2><ul><li>7832 バンナムHD</li><li>7082 ジモティ</li><li>6758 ソニー</li><li>9843 ニトリ　<a href="https://kabutan.jp/news/marketnews/?b=n202109270192">9/30決算</a></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;利益金額合計 0 円&lt;br&gt;損失金額合計 -58,303 円&lt;br&gt;実現損益合計 -58,303 円&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/kab/img/20210927000.png&quot; alt=&quot;i&quot;&gt;&lt;/p&gt;
-&lt;p&gt;今日上がるかなと思ってたけどまだ上値重い感じだった&lt;/</summary>
-      
-    
-    
-    
-    
-    <category term="株ログ" scheme="https://7seee.github.io/kab/tags/%E6%A0%AA%E3%83%AD%E3%82%B0/"/>
-    
-    <category term="4169" scheme="https://7seee.github.io/kab/tags/4169/"/>
-    
-    <category term="7082" scheme="https://7seee.github.io/kab/tags/7082/"/>
-    
-    <category term="9143" scheme="https://7seee.github.io/kab/tags/9143/"/>
-    
-    <category term="7803" scheme="https://7seee.github.io/kab/tags/7803/"/>
-    
-    <category term="1458" scheme="https://7seee.github.io/kab/tags/1458/"/>
-    
-    <category term="9021" scheme="https://7seee.github.io/kab/tags/9021/"/>
     
   </entry>
   

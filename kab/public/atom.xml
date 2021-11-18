@@ -6,7 +6,7 @@
   <link href="https://7seee.github.io/kab/atom.xml" rel="self"/>
   
   <link href="https://7seee.github.io/kab/"/>
-  <updated>2021-11-17T03:45:04.639Z</updated>
+  <updated>2021-11-18T06:04:03.695Z</updated>
   <id>https://7seee.github.io/kab/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20211118 結果</title>
+    <link href="https://7seee.github.io/kab/2021/11/18/20211118/"/>
+    <id>https://7seee.github.io/kab/2021/11/18/20211118/</id>
+    <published>2021-11-18T06:03:10.000Z</published>
+    <updated>2021-11-18T06:04:03.695Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/kab/img/20211118000.png" alt="i"></p><p>ノートレ～</p><h2><span id="2158-fronteo">2158 FRONTEO</span></h2><p>取引なし</p><h2><span id="4169-enechange">4169 ENECHANGE</span></h2><p>取引なし</p><h2><span id="7832-バンナムhd">7832 バンナムHD</span></h2><p>取引なし</p><h2><span id="next-up">next up</span></h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/kab/img/20211118000.png&quot; alt=&quot;i&quot;&gt;&lt;/p&gt;
+&lt;p&gt;ノートレ～&lt;/p&gt;
+&lt;h2&gt;&lt;span id=&quot;2158-fronteo&quot;&gt;2158 FRONTEO&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;取引なし&lt;/p&gt;
+&lt;h2&gt;&lt;span i</summary>
+      
+    
+    
+    
+    
+    <category term="株ログ" scheme="https://7seee.github.io/kab/tags/%E6%A0%AA%E3%83%AD%E3%82%B0/"/>
+    
+    <category term="4169" scheme="https://7seee.github.io/kab/tags/4169/"/>
+    
+    <category term="2158" scheme="https://7seee.github.io/kab/tags/2158/"/>
+    
+    <category term="7832" scheme="https://7seee.github.io/kab/tags/7832/"/>
+    
+  </entry>
   
   <entry>
     <title>20211117 結果</title>
@@ -588,30 +619,6 @@
     <category term="6758" scheme="https://7seee.github.io/kab/tags/6758/"/>
     
     <category term="7832" scheme="https://7seee.github.io/kab/tags/7832/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20211022 日記 個人的なメモ</title>
-    <link href="https://7seee.github.io/kab/2021/10/22/20211022-diary/"/>
-    <id>https://7seee.github.io/kab/2021/10/22/20211022-diary/</id>
-    <published>2021-10-22T03:56:15.000Z</published>
-    <updated>2021-10-22T04:05:53.906Z</updated>
-    
-    <content type="html"><![CDATA[<p>トレイリングで刈られて、「持ってたら上がってたのに」みたいなのが散見される</p><p>トレイリング初期条件の所に改善が必要かもしれない（約定から○日は設定しないとか、リスクをとってロスカットポイントをもっと下げるとか）</p><h2><span id="6890-フェローテック">6890 フェローテック</span></h2><p><img src="/kab/img/20211022d001.png" alt="i"></p><h2><span id="7082-ジモティ">7082 ジモティ</span></h2><p><img src="/kab/img/20211022d002.png" alt="i"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;トレイリングで刈られて、「持ってたら上がってたのに」みたいなのが散見される&lt;/p&gt;
-&lt;p&gt;トレイリング初期条件の所に改善が必要かもしれない（約定から○日は設定しないとか、リスクをとってロスカットポイントをもっと下げるとか）&lt;/p&gt;
-&lt;h2&gt;&lt;span id=&quot;6890-フェ</summary>
-      
-    
-    
-    
-    
-    <category term="日記" scheme="https://7seee.github.io/kab/tags/%E6%97%A5%E8%A8%98/"/>
     
   </entry>
   

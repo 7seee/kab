@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+
+  mock:
+    image: nginx:latest
+    ports:
+      - 80:80
+    volumes:
+      - ${PWD}/mock/:/usr/share/nginx/html/
+    init: true
+
